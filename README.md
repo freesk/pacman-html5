@@ -7,5 +7,3 @@ A small Pac-Man-style chase game drawn on an HTML5 canvas and animated with [GSA
 ## Usage
 
 Open `index.html` in a browser. No build step is needed.
-
-The `clickable-version` branch has an earlier variant where you click a cell and the ball walks to it along the shortest path.
